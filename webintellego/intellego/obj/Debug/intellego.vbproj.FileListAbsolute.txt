@@ -1,0 +1,9 @@
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\bin\intellego.dll
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\bin\intellego.pdb
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\bin\intellego.xml
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\intellego.Resources.resources
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\intellego.vbproj.GenerateResource.Cache
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\intellego.dll
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\intellego.xml
+C:\Users\NeMo\Documents\Proyectos\intellego\intellego\obj\Debug\intellego.pdb

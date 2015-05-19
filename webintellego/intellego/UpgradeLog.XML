@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="intellego">
+</Property><Property Name="Solution File" Value="E:\Memo\intellego\intellego\intellego.sln">
+</Property><Property Name="User Options File" Value="E:\Memo\intellego\intellego\intellego.suo">
+</Property><Property Name="Date" Value="Monday, March 05, 2012">
+</Property><Property Name="Time" Value="20:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="intellego.sln" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\intellego.sln">
+</Event><Event ErrorLevel="0" Project="" Source="intellego.suo" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\intellego.suo">
+</Event><Event ErrorLevel="0" Project="intellego" Source="intellego.vbproj" Description="Project file successfully backed up as E:\Memo\intellego\intellego\Backup\intellego.vbproj">
+</Event><Event ErrorLevel="0" Project="intellego" Source="intellego.vbproj.user" Description="Project user file successfully backed up as E:\Memo\intellego\intellego\Backup\intellego.vbproj.user">
+</Event><Event ErrorLevel="0" Project="intellego" Source="addNews.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\addNews.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="addNews.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\addNews.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="adminMenu.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\adminMenu.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="adminMenu.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\adminMenu.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="conferencias.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\conferencias.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="conferencias.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\conferencias.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayAsist.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayAsist.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayAsist.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayAsist.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayNews.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayNews.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayNews.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayNews.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\done.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\done.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\done.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\done.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\registro.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\registro.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\registro.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\registro.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="fotos.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\fotos.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="fotos.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\fotos.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="index.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\index.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="index.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\index.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="menu.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\menu.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="menu.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\menu.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyNews.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyNews.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyNews.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyNews.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyPart.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyPart.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyPart.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyPart.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\MyExtensions\MyWebExtension.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\MyExtensions\MyWebExtension.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="nosotros.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\nosotros.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="nosotros.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\nosotros.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="restoreDB.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\restoreDB.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="restoreDB.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\restoreDB.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="sysError.aspx.designer.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\sysError.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="sysError.aspx.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\sysError.aspx.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="Utilities.vb" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\Utilities.vb">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="intellego" Source="addNews.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\addNews.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="adminMenu.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\adminMenu.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="conferencias.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\conferencias.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="css\style.css" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\css\style.css">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayAsist.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayAsist.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="displayNews.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\displayNews.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\done.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\done.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\expositores.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\expositores.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\hoteles.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\hoteles.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\5.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\5.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\alexandra.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\alexandra.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\Alimentariaonline.JPG" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\Alimentariaonline.JPG">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\ana.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\ana.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\anim.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\anim.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\arely.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\arely.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\background.png" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\background.png">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bits.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bits.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bodybg.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bodybg.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bodybg.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bodybg.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bodybg2.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bodybg2.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bodybg3.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bodybg3.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bottom.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bottom.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\bottom.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\bottom.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\brands.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\brands.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\clip.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\clip.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\delete.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\delete.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\emulsiones.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\emulsiones.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\excelDoc.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\excelDoc.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\ficha.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\ficha.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\fondo.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\fondo.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\fondofinal.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\fondofinal.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\footerbg.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\footerbg.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\glafir.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\glafir.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\laura.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\laura.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\left.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\left.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\logoCanamex.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\logoCanamex.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\LogoGoogle.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\LogoGoogle.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\logointellego.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\logointellego.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\logointellegochico.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\logointellegochico.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\logotec.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\logotec.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\logotelcel.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\logotelcel.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\malvern.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\malvern.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\mapa.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\mapa.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\maria.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\maria.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\mariale.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\mariale.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\maura.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\maura.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\memo.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\memo.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\menuhover.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\menuhover.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\miniExcel.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\miniExcel.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\moreInfo.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\moreInfo.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\noright.swf" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\noright.swf">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\ntoPatrono.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\ntoPatrono.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\ntoPatrono15.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\ntoPatrono15.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\photo02.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\photo02.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\photo03.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\photo03.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\photo04.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\photo04.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\photo15.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\photo15.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\powerpointtemplate.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\powerpointtemplate.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\quedma.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\quedma.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\topnav1m2.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\topnav1m2.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\topnav1m2back.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\topnav1m2back.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\Wordtemplate.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\Wordtemplate.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\images\XdocTemplate.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\images\XdocTemplate.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\index.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\index.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\intro.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\intro.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\mainstyles.css" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\mainstyles.css">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\normas.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\normas.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\nosotros.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\nosotros.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\programa.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\programa.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\registro.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\registro.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="emulsiones\registro.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\emulsiones\registro.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="fotos.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\fotos.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\alexandra.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\alexandra.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\Alimentariaonline.JPG" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\Alimentariaonline.JPG">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\ana.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\ana.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\arely.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\arely.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\background.png" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\background.png">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\bits.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\bits.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\brands.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\brands.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\delete.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\delete.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\emulsiones.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\emulsiones.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\excelDoc.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\excelDoc.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\glafir.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\glafir.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_background.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_background.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_button_neutral.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_button_neutral.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_button_number1.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_button_number1.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_button_number2.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_button_number2.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_button_number3.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_button_number3.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_header_nav_bottom.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_header_nav_bottom.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_left_nav.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_left_nav.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_left_nav3.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_left_nav3.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_sample_header.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_sample_header.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\img_sample_image.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\img_sample_image.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\laura.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\laura.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\logoCanamex.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\logoCanamex.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\logochico.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\logochico.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\logointellego.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\logointellego.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\logotec.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\logotec.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\logotelcel.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\logotelcel.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\malvern.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\malvern.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\maria.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\maria.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\mariale.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\mariale.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\maura.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\maura.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\memo.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\memo.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\miniExcel.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\miniExcel.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\moreInfo.gif" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\moreInfo.gif">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\noright.swf" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\noright.swf">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\ntoPatrono.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\ntoPatrono.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\ntoPatrono15.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\ntoPatrono15.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\photo02.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\photo02.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\photo03.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\photo03.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\photo04.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\photo04.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\photo15.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\photo15.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="images\quedma.jpg" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\images\quedma.jpg">
+</Event><Event ErrorLevel="0" Project="intellego" Source="index.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\index.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="index.html" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\index.html">
+</Event><Event ErrorLevel="0" Project="intellego" Source="menu.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\menu.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyNews.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyNews.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="modifyPart.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\modifyPart.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="nosotros.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\nosotros.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="restoreDB.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\restoreDB.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="sysError.aspx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\sysError.aspx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="Web.config" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="intellego" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Memo\intellego\intellego\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="intellego" Source="intellego.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="intellego" Source="intellego.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="intellego.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="intellego.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="intellego" Source="intellego.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
